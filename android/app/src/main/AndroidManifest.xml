@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.outside">
+    package="com.pietrodev.boilerplate">
    <application
-        android:label="outside"
+        android:label="Pietro Boilerplate"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

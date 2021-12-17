@@ -1,4 +1,4 @@
-package com.example.outside
+package com.pietrodev.boilerplate
 
 import io.flutter.embedding.android.FlutterActivity
 
